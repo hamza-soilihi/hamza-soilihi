@@ -1,9 +1,6 @@
 ## I'm Hamza Soilihi
-
-<!--
-**hamza-soilihi/hamza-soilihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-**étudiant en première année de Bachelor IT. Depuis toujours, je suis passionné par les technologies de l'information et je rêve de devenir un expert dans ce domaine. Actuellement, j'explore avec enthousiasme les bases de la programmation, des réseaux et des systèmes d'exploitation. J'adore participer aux travaux pratiques et résoudre des problèmes complexes. De nature sociable et collaboratif, j'échange souvent avec mes camarades pour enrichir mes connaissances. Je suis également très curieux des avancées technologiques et je réfléchis déjà à une spécialisation future pour approfondir mes compétences.
+![Texte alternatif](https://github.com/hamza-soilihi/hamza-soilihi/blob/main/header.png?raw=true)
+étudiant en première année de Bachelor IT. Depuis toujours, je suis passionné par les technologies de l'information et je rêve de devenir un expert dans ce domaine. Actuellement, j'explore avec enthousiasme les bases de la programmation, des réseaux et des systèmes d'exploitation. J'adore participer aux travaux pratiques et résoudre des problèmes complexes. De nature sociable et collaboratif, j'échange souvent avec mes camarades pour enrichir mes connaissances. Je suis également très curieux des avancées technologiques et je réfléchis déjà à une spécialisation future pour approfondir mes compétences.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
